@@ -1,0 +1,7 @@
+{'Error type': 'TCP connection failed', 'Time': '2022-06-13T10:12:03.127773+08:00'}
+{'Error type': 'TCP connection failed', 'Time': '2022-06-13T10:12:35.273251+08:00'}
+{'Error type': 'TCP connection failed', 'Time': '2022-06-13T10:14:39.133879+08:00'}
+{'Error type': 'TCP connection failed', 'Time': '2022-06-13T10:15:21.554893+08:00'}
+{'Error type': 'TCP connection failed', 'Time': '2022-06-13T10:15:25.009211+08:00'}
+{'Error type': 'TCP connection failed', 'Time': '2022-06-13T10:16:12.049848+08:00'}
+{'Error type': 'TCP connection failed', 'Time': '2022-06-13T10:17:55.950533+08:00'}

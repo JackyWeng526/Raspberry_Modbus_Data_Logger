@@ -1,0 +1,8 @@
+pymodbus
+pyserial
+pyusb
+rpi-ws281x
+RPi.GPIO
+pandas
+numpy
+openpyxl
